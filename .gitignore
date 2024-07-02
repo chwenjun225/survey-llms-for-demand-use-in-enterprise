@@ -3,6 +3,7 @@ models/
 runs/
 saves/
 results/
+Llama-2-7b-chat-finetune/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
