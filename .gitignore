@@ -5,6 +5,9 @@ saves/
 results/
 Llama-2-7b-chat-finetune/
 
+# Reference documents
+from_3rdparty/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
