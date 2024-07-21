@@ -1,2 +1,5 @@
-# survey-llms-for-demand-use-in-enterprise
-Tools for fine-tune and run all the large language models
+# Survey Large Language Models for Demand Use In Enterprise
+
+## Batch size choise
+
+To achieve optimal perfomance

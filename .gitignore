@@ -1,3 +1,15 @@
+llama-2-7b-miniguanaco/
+llama-2-7b-guanaco/
+from_3rdparty/
+datasets/
+llama.cpp/
+_unsloth_sentencepiece_temp/
+_unsloth_temporary_saved_buffers/
+llama3_8b_instruct_lora_merged16bit/
+llama3_8b_instruct_lora_merged16bit_gguf/
+llama3_8b_instruct_lora_mergedlora/
+llama3_8b_instruct_pretrained/
+
 # Models trained
 models/
 runs/
